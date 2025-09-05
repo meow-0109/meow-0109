@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @meow-0109
-- 👀 I’m interested in development using java and web application security
+- 👋 Hi, I’m Rutuja Soundale a third year engineering student
+- 👀 I’m interested in development using java and springboot
 - 🌱 I’m currently learning web development and core java with DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
